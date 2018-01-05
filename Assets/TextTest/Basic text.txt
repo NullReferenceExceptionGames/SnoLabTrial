@@ -1,0 +1,10 @@
+183 years ago, SNOLab was rendered nearly uninhabitable due to a previously undiscovered substance which was being researched at the time. (Press ENTER to continue)
+However, recently a large number of abnormalities have been detected in the facility. You have been sent in to investigate.
+Due to the extremely hazardous nature of some of the areas you have been given an energy based radiation shield. Your suit includes a mechanical exoskeleton which allows you tojump against walls and run very fast.
+However, many perils await you, including rats, turrets, and the lone inhabitant of SNOLab...
+How to play:
+Press RIGHT/LEFT to move, SPACE to jump, DOWN to activate shield, and UP to activate computers.
+Rapidly press SPACE and RIGHT/LEFT to wall jump.
+Jump on rats to kill them.
+Green boxes define radioactive zones. Purple boxes define energy interference zones.
+Bullets kill you in one hit. You'll have to find out how the boss kills you...
